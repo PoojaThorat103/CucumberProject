@@ -1,0 +1,44 @@
+[INFO ] 2023-01-13 19:41:13.813 [main] Wrapper - This is log +++++++++++++++++++++++++++++++
+[INFO ] 2023-01-13 19:44:25.498 [main] Wrapper - This is log +++++++++++++++++++++++++++++++
+[INFO ] 2023-01-13 19:57:34.281 [main] Wrapper - Uset Has clicked on Element [[ChromeDriver: chrome on XP (c25b9f16bf2d176ef084459257e44786)] -> xpath: //button[@id='btnDropdownDemo']]
+[INFO ] 2023-01-13 20:36:48.686 [main] Wrapper - Uset Has clicked on Element [[ChromeDriver: chrome on XP (aa09887d2340a8c5d34bda2aada5b281)] -> xpath: //button[@id='btnDropdownDemo']]
+[INFO ] 2023-01-13 20:54:33.572 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-13 20:54:34.150 [main] Wrapper - Uset Has clicked on Element [[ChromeDriver: chrome on XP (f2062c7f8361fc66caa2917e5280bddb)] -> xpath: //button[@id='btnDropdownDemo']]
+[INFO ] 2023-01-13 20:56:21.176 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-13 20:56:21.451 [main] Wrapper - Uset Has clicked on Element [[ChromeDriver: chrome on XP (0b593319218a8ac01abddcff603d2162)] -> xpath: //button[@id='btnDropdownDemo']]
+[INFO ] 2023-01-13 20:58:25.278 [main] Wrapper - Element Display Status: 
+[INFO ] 2023-01-13 21:00:39.596 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-13 21:00:39.695 [main] Wrapper - Uset Has clicked on Element [[ChromeDriver: chrome on XP (f51a8416896cb72ae87860847dd29577)] -> xpath: //button[@id='btnDropdownDemo']]
+[INFO ] 2023-01-13 21:07:13.699 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-13 21:07:14.150 [main] Wrapper - user has entered value123
+[INFO ] 2023-01-13 21:07:14.199 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-13 21:07:14.870 [main] Wrapper - Uset Has clicked on Element [[ChromeDriver: chrome on XP (c579fe4c1b562390554dd3e418fad23a)] -> xpath: //input[@id="continue"]]
+[INFO ] 2023-01-13 21:07:14.911 [main] Wrapper - Element Display Status: 
+[INFO ] 2023-01-13 21:08:49.556 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-13 21:08:49.631 [main] Wrapper - user has entered value123
+[INFO ] 2023-01-13 21:08:49.691 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-13 21:08:50.221 [main] Wrapper - Uset Has clicked on Element [[ChromeDriver: chrome on XP (ee7d9781883a42fe0b726bb32e07037a)] -> xpath: //input[@id="continue"]]
+[INFO ] 2023-01-13 21:08:50.255 [main] Wrapper - Element Display Status: true
+[INFO ] 2023-01-13 21:10:22.249 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-13 21:10:22.332 [main] Wrapper - user has entered value123
+[INFO ] 2023-01-13 21:10:22.394 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-13 21:10:23.148 [main] Wrapper - Uset Has clicked on Element [[ChromeDriver: chrome on XP (1df02d404ad4c0446dbff6ec43ea83c3)] -> xpath: //input[@id="continue"]]
+[INFO ] 2023-01-13 21:10:23.176 [main] Wrapper - Element Display Status: true
+[INFO ] 2023-01-13 21:12:50.908 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-13 21:12:51.448 [main] Wrapper - user has entered value123
+[INFO ] 2023-01-13 21:12:51.499 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-13 21:12:52.121 [main] Wrapper - Uset Has clicked on Element [[ChromeDriver: chrome on XP (4c364dae26e127fbd10c16f04319c358)] -> xpath: //input[@id="continue"]]
+[INFO ] 2023-01-13 21:20:42.681 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-13 21:20:42.792 [main] Wrapper - user has entered value123
+[INFO ] 2023-01-13 21:20:43.311 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-13 21:20:44.937 [main] Wrapper - Uset Has clicked on Element [[ChromeDriver: chrome on XP (389f2c41afff32d20ecf8654018fe06a)] -> xpath: //input[@id="continue"]]
+[INFO ] 2023-01-15 00:51:39.715 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-15 00:51:39.830 [main] Wrapper - user has entered value123
+[INFO ] 2023-01-15 00:51:39.914 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-15 00:51:40.543 [main] Wrapper - Uset Has clicked on Element [[ChromeDriver: chrome on XP (18b83bc83c646360387e86224abc8b8d)] -> xpath: //input[@id="continue"]]
+[INFO ] 2023-01-15 00:51:40.576 [main] Wrapper - Element Display Status: true
+[INFO ] 2023-01-15 01:12:34.464 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-15 01:12:34.540 [main] Wrapper - user has entered value 123
+[INFO ] 2023-01-15 01:12:34.593 [main] Wrapper - Element is displayed
+[INFO ] 2023-01-15 01:12:35.403 [main] Wrapper - Uset Has clicked on Element [[ChromeDriver: chrome on XP (493ebfcf70f4cfa90ea260a763fc30cb)] -> xpath: //input[@id="continue"]]
+[INFO ] 2023-01-15 01:12:35.445 [main] Wrapper - Element Display Status: true
