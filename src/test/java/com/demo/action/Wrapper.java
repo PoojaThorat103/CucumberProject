@@ -115,7 +115,8 @@ public class Wrapper extends BaseClass{
 			logger.info("Element Display Status: " +isDisplayed);
 			Assert.assertTrue(message, isDisplayed);
 		}catch(Exception e){
-			System.out.println("--------"+e.getMessage());
+		//	System.out.println("--------"+e.getMessage());
+			printLog("Got Exception"+e.getMessage());
 		}
 	}
 
