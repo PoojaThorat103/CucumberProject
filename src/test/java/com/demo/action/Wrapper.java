@@ -59,8 +59,9 @@ public class Wrapper extends BaseClass{
 			logger.info("Element is displayed");
 			return true;
 		}catch(Exception e){
-			Reporter.addStepLog("Element Not displayed "+ we);
-			logger.info("Element Not displayed "+ we);
+			//Reporter.addStepLog("Element Not displayed "+ we);
+			//logger.info("Element Not displayed "+ we);
+			printLog("Element Not displayed "+ we);
 			return false;
 		}
 	}
