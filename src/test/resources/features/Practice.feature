@@ -25,7 +25,7 @@ Scenario Outline: Drop down Practice
       |Angola|
       
       
-  # @smokeTest
+  @sanity
   Scenario: Select value from Autosuggestion DropDown
    Given User will select value
    And User will select the value fron DP
